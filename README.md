@@ -1,7 +1,3 @@
-Here’s an example of an "About Me" section for your GitHub profile:  
-
----
-
 👋 **Welcome to my GitHub profile!**  
 
 I'm a passionate **Data Analyst** with a knack for transforming raw data into actionable insights that drive decision-making. Proficient in tools and technologies such as **Microsoft Excel**, **Microsoft Power BI**, **SQL**, and **Python**, I specialize in data wrangling, visualization, and storytelling.  
@@ -19,5 +15,3 @@ I use this space to share my projects, collaborate with like-minded professional
 Let’s connect and share ideas! Feel free to explore my repositories and reach out if you'd like to collaborate.  
 
 ---  
-
-Feel free to customize this further to reflect your personality and career goals!
